@@ -1,4 +1,4 @@
-name: Build
+name: Build-edge
 on:
   workflow_dispatch:
 
